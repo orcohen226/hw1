@@ -28,7 +28,7 @@ public class Card {
     public String toString(){
         if (num == 13) {return "King of " + shapeNumber;}
         else if (num == 12) {return "Queen of " + shapeNumber;}
-        else if (num == 11) {return "Prince of " + shapeNumber;}
+        else if (num == 11) {return "Jack of " + shapeNumber;}
         else if (num == 1) {return "Ace of " + shapeNumber;}
         return num + " of " + shapeNumber ;
 

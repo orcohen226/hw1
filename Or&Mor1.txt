@@ -1,6 +1,1952 @@
-Exception in thread "main" java.io.FileNotFoundException: C:\Users\MOEUser\Desktop\аеш (The system cannot find the file specified)
-	at java.base/java.io.FileInputStream.open0(Native Method)
-	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
-	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
-	at java.base/java.util.Scanner.<init>(Scanner.java:611)
-	at Main.main(Main.java:12)
+Initializing the game...
+------------------------- Round number 1 ------------------------
+Avi drew Jack of ?
+Dani drew Ace of ?
+Avi won
+------------------------- Round number 2 ------------------------
+Avi drew 4 of ?
+Dani drew Ace of ?
+Avi won
+------------------------- Round number 3 ------------------------
+Avi drew 6 of ?
+Dani drew Ace of ?
+Avi won
+------------------------- Round number 4 ------------------------
+Avi drew 8 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 5 ------------------------
+Avi drew Queen of ?
+Dani drew 7 of ?
+Avi won
+------------------------- Round number 6 ------------------------
+Avi drew King of ?
+Dani drew Jack of ?
+Avi won
+------------------------- Round number 7 ------------------------
+Avi drew 9 of ?
+Dani drew 10 of ?
+Dani won
+------------------------- Round number 8 ------------------------
+Avi drew Jack of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 9 ------------------------
+Avi drew 5 of ?
+Dani drew 6 of ?
+Dani won
+------------------------- Round number 10 ------------------------
+Avi drew Queen of ?
+Dani drew 8 of ?
+Avi won
+------------------------- Round number 11 ------------------------
+Avi drew 6 of ?
+Dani drew 5 of ?
+Avi won
+------------------------- Round number 12 ------------------------
+Avi drew 5 of ?
+Dani drew 10 of ?
+Dani won
+------------------------- Round number 13 ------------------------
+Avi drew King of ?
+Dani drew Queen of ?
+Avi won
+------------------------- Round number 14 ------------------------
+Avi drew 8 of ?
+Dani drew 8 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 4 of ?
+Dani drew 7 of ?
+Dani won the war
+------------------------- Round number 15 ------------------------
+Avi drew 6 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 16 ------------------------
+Avi drew 9 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 17 ------------------------
+Avi drew 3 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 18 ------------------------
+Avi drew 4 of ?
+Dani drew 3 of ?
+Avi won
+------------------------- Round number 19 ------------------------
+Avi drew 2 of ?
+Dani drew 5 of ?
+Dani won
+------------------------- Round number 20 ------------------------
+Avi drew 10 of ?
+Dani drew 10 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 9 of ?
+Dani drew 3 of ?
+Avi won the war
+------------------------- Round number 21 ------------------------
+Avi drew King of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 22 ------------------------
+Avi drew Queen of ?
+Dani drew 5 of ?
+Avi won
+------------------------- Round number 23 ------------------------
+Avi drew 3 of ?
+Dani drew 6 of ?
+Dani won
+------------------------- Round number 24 ------------------------
+Avi drew 9 of ?
+Dani drew 10 of ?
+Dani won
+------------------------- Round number 25 ------------------------
+Avi drew 6 of ?
+Dani drew 6 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Ace of ?
+Dani drew 7 of ?
+Dani won the war
+------------------------- Round number 26 ------------------------
+Avi drew 7 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 27 ------------------------
+Avi drew 2 of ?
+Dani drew 7 of ?
+Dani won
+------------------------- Round number 28 ------------------------
+Avi drew Queen of ?
+Dani drew 10 of ?
+Avi won
+------------------------- Round number 29 ------------------------
+Avi drew 4 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 30 ------------------------
+Avi drew Jack of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 31 ------------------------
+Avi drew 8 of ?
+Dani drew 5 of ?
+Avi won
+------------------------- Round number 32 ------------------------
+Avi drew Queen of ?
+Dani drew 8 of ?
+Avi won
+------------------------- Round number 33 ------------------------
+Avi drew 4 of ?
+Dani drew 9 of ?
+Dani won
+------------------------- Round number 34 ------------------------
+Avi drew 5 of ?
+Dani drew 5 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew 9 of ?
+Dani drew King of ?
+Dani won the war
+------------------------- Round number 35 ------------------------
+Avi drew Jack of ?
+Dani drew 9 of ?
+Avi won
+------------------------- Round number 36 ------------------------
+Avi drew 9 of ?
+Dani drew 10 of ?
+Dani won
+------------------------- Round number 37 ------------------------
+Avi drew Jack of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 38 ------------------------
+Avi drew Ace of ?
+Dani drew 7 of ?
+Dani won
+------------------------- Round number 39 ------------------------
+Avi drew 2 of ?
+Dani drew 7 of ?
+Dani won
+------------------------- Round number 40 ------------------------
+Avi drew King of ?
+Dani drew 9 of ?
+Avi won
+------------------------- Round number 41 ------------------------
+Avi drew King of ?
+Dani drew 3 of ?
+Avi won
+------------------------- Round number 42 ------------------------
+Avi drew 2 of ?
+Dani drew 4 of ?
+Dani won
+------------------------- Round number 43 ------------------------
+Avi drew 9 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 44 ------------------------
+Avi drew Queen of ?
+Dani drew 6 of ?
+Avi won
+------------------------- Round number 45 ------------------------
+Avi drew Queen of ?
+Dani drew 6 of ?
+Avi won
+------------------------- Round number 46 ------------------------
+Avi drew 9 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 47 ------------------------
+Avi drew 5 of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 48 ------------------------
+Avi drew 10 of ?
+Dani drew 10 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ?
+Dani drew King of ?
+Dani won the war
+------------------------- Round number 49 ------------------------
+Avi drew Queen of ?
+Dani drew 9 of ?
+Avi won
+------------------------- Round number 50 ------------------------
+Avi drew 8 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 51 ------------------------
+Avi drew 2 of ?
+Dani drew 2 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew King of ?
+Dani drew 9 of ?
+Avi won the war
+------------------------- Round number 52 ------------------------
+Avi drew 8 of ?
+Dani drew 7 of ?
+Avi won
+------------------------- Round number 53 ------------------------
+Avi drew 5 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 54 ------------------------
+Avi drew 4 of ?
+Dani drew 9 of ?
+Dani won
+------------------------- Round number 55 ------------------------
+Avi drew 5 of ?
+Dani drew 9 of ?
+Dani won
+------------------------- Round number 56 ------------------------
+Avi drew 4 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 57 ------------------------
+Avi drew King of ?
+Dani drew Ace of ?
+Avi won
+------------------------- Round number 58 ------------------------
+Avi drew 6 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 59 ------------------------
+Avi drew Queen of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 60 ------------------------
+Avi drew 8 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 61 ------------------------
+Avi drew 9 of ?
+Dani drew 5 of ?
+Avi won
+------------------------- Round number 62 ------------------------
+Avi drew 6 of ?
+Dani drew Queen of ?
+Dani won
+------------------------- Round number 63 ------------------------
+Avi drew 8 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 64 ------------------------
+Avi drew 2 of ?
+Dani drew 8 of ?
+Dani won
+------------------------- Round number 65 ------------------------
+Avi drew 2 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 66 ------------------------
+Avi drew King of ?
+Dani drew 9 of ?
+Avi won
+------------------------- Round number 67 ------------------------
+Avi drew Queen of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 68 ------------------------
+Avi drew 3 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 69 ------------------------
+Avi drew Queen of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 70 ------------------------
+Avi drew 9 of ?
+Dani drew 8 of ?
+Avi won
+------------------------- Round number 71 ------------------------
+Avi drew 7 of ?
+Dani drew Queen of ?
+Dani won
+------------------------- Round number 72 ------------------------
+Avi drew King of ?
+Dani drew 3 of ?
+Avi won
+------------------------- Round number 73 ------------------------
+Avi drew 5 of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 74 ------------------------
+Avi drew 4 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 75 ------------------------
+Avi drew 4 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 76 ------------------------
+Avi drew 9 of ?
+Dani drew 6 of ?
+Avi won
+------------------------- Round number 77 ------------------------
+Avi drew 4 of ?
+Dani drew 8 of ?
+Dani won
+------------------------- Round number 78 ------------------------
+Avi drew Queen of ?
+Dani drew Jack of ?
+Avi won
+------------------------- Round number 79 ------------------------
+Avi drew 5 of ?
+Dani drew 8 of ?
+Dani won
+------------------------- Round number 80 ------------------------
+Avi drew King of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 81 ------------------------
+Avi drew 5 of ?
+Dani drew 7 of ?
+Dani won
+------------------------- Round number 82 ------------------------
+Avi drew 9 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 83 ------------------------
+Avi drew 9 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 84 ------------------------
+Avi drew 4 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 85 ------------------------
+Avi drew 6 of ?
+Dani drew Queen of ?
+Dani won
+------------------------- Round number 86 ------------------------
+Avi drew 2 of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 87 ------------------------
+Avi drew Ace of ?
+Dani drew Jack of ?
+Dani won
+------------------------- Round number 88 ------------------------
+Avi drew 3 of ?
+Dani drew 5 of ?
+Dani won
+------------------------- Round number 89 ------------------------
+Avi drew Queen of ?
+Dani drew 5 of ?
+Avi won
+------------------------- Round number 90 ------------------------
+Avi drew 8 of ?
+Dani drew Queen of ?
+Dani won
+------------------------- Round number 91 ------------------------
+Avi drew 2 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 92 ------------------------
+Avi drew King of ?
+Dani drew 8 of ?
+Avi won
+------------------------- Round number 93 ------------------------
+Avi drew King of ?
+Dani drew 6 of ?
+Avi won
+------------------------- Round number 94 ------------------------
+Avi drew 9 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 95 ------------------------
+Avi drew 9 of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 96 ------------------------
+Avi drew 6 of ?
+Dani drew 7 of ?
+Dani won
+------------------------- Round number 97 ------------------------
+Avi drew 4 of ?
+Dani drew 7 of ?
+Dani won
+------------------------- Round number 98 ------------------------
+Avi drew 9 of ?
+Dani drew Queen of ?
+Dani won
+------------------------- Round number 99 ------------------------
+Avi drew King of ?
+Dani drew Ace of ?
+Avi won
+------------------------- Round number 100 ------------------------
+Avi drew 9 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 101 ------------------------
+Avi drew King of ?
+Dani drew Jack of ?
+Avi won
+------------------------- Round number 102 ------------------------
+Avi drew 6 of ?
+Dani drew 8 of ?
+Dani won
+------------------------- Round number 103 ------------------------
+Avi drew 4 of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 104 ------------------------
+Avi drew 2 of ?
+Dani drew 6 of ?
+Dani won
+------------------------- Round number 105 ------------------------
+Avi drew 5 of ?
+Dani drew 3 of ?
+Avi won
+------------------------- Round number 106 ------------------------
+Avi drew 4 of ?
+Dani drew 5 of ?
+Dani won
+------------------------- Round number 107 ------------------------
+Avi drew 4 of ?
+Dani drew 6 of ?
+Dani won
+------------------------- Round number 108 ------------------------
+Avi drew 9 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 109 ------------------------
+Avi drew 9 of ?
+Dani drew 9 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Queen of ?
+Dani drew 5 of ?
+Avi won the war
+------------------------- Round number 110 ------------------------
+Avi drew King of ?
+Dani drew 8 of ?
+Avi won
+------------------------- Round number 111 ------------------------
+Avi drew Jack of ?
+Dani drew 7 of ?
+Avi won
+------------------------- Round number 112 ------------------------
+Avi drew Jack of ?
+Dani drew 6 of ?
+Avi won
+------------------------- Round number 113 ------------------------
+Avi drew King of ?
+Dani drew Queen of ?
+Avi won
+------------------------- Round number 114 ------------------------
+Avi drew 5 of ?
+Dani drew 4 of ?
+Avi won
+------------------------- Round number 115 ------------------------
+Avi drew 2 of ?
+Dani drew 9 of ?
+Dani won
+------------------------- Round number 116 ------------------------
+Avi drew 3 of ?
+Dani drew 9 of ?
+Dani won
+------------------------- Round number 117 ------------------------
+Avi drew 7 of ?
+Dani drew 6 of ?
+Avi won
+------------------------- Round number 118 ------------------------
+Avi drew 8 of ?
+Dani drew 2 of ?
+Avi won
+------------------------- Round number 119 ------------------------
+Avi drew 5 of ?
+Dani drew King of ?
+Dani won
+------------------------- Round number 120 ------------------------
+Avi drew 4 of ?
+Dani drew 4 of ?
+Starting a war...
+Avi drew a war card
+Dani drew a war card
+Avi drew a war card
+Dani drew a war card
+Avi drew Jack of ?
+Dani drew 9 of ?
+Avi won the war
+------------------------- Round number 121 ------------------------
+Avi drew Queen of ?
+Dani drew 3 of ?
+Avi won
+------------------------- Round number 122 ------------------------
+Avi drew 8 of ?
+Dani drew 5 of ?
+Avi won
++++++++++++++++++++++++++++++++++++++++
+Avi won the game!
+
+
+Initializing the game...
+------------------------- Round number 1 ------------------------
+Amit drew 6 of ?
+David drew 4 of ?
+Amit won
+------------------------- Round number 2 ------------------------
+Amit drew 2 of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 3 ------------------------
+Amit drew 6 of ?
+David drew 5 of ?
+Amit won
+------------------------- Round number 4 ------------------------
+Amit drew 7 of ?
+David drew King of ?
+David won
+------------------------- Round number 5 ------------------------
+Amit drew Queen of ?
+David drew 10 of ?
+Amit won
+------------------------- Round number 6 ------------------------
+Amit drew Queen of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 7 ------------------------
+Amit drew Jack of ?
+David drew Jack of ?
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 9 of ?
+David drew 9 of ?
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew King of ?
+David drew 4 of ?
+Amit won the war
+------------------------- Round number 8 ------------------------
+Amit drew 5 of ?
+David drew 2 of ?
+Amit won
+------------------------- Round number 9 ------------------------
+Amit drew 4 of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 10 ------------------------
+Amit drew 6 of ?
+David drew 4 of ?
+Amit won
+------------------------- Round number 11 ------------------------
+Amit drew Jack of ?
+David drew 7 of ?
+Amit won
+------------------------- Round number 12 ------------------------
+Amit drew 10 of ?
+David drew 5 of ?
+Amit won
+------------------------- Round number 13 ------------------------
+Amit drew Queen of ?
+David drew 8 of ?
+Amit won
+------------------------- Round number 14 ------------------------
+Amit drew Ace of ?
+David drew 5 of ?
+David won
+------------------------- Round number 15 ------------------------
+Amit drew 9 of ?
+David drew 2 of ?
+Amit won
+------------------------- Round number 16 ------------------------
+Amit drew 8 of ?
+David drew 3 of ?
+Amit won
+------------------------- Round number 17 ------------------------
+Amit drew King of ?
+David drew 3 of ?
+Amit won
+------------------------- Round number 18 ------------------------
+Amit drew 10 of ?
+David drew 8 of ?
+Amit won
+------------------------- Round number 19 ------------------------
+Amit drew Queen of ?
+David drew 7 of ?
+Amit won
+------------------------- Round number 20 ------------------------
+Amit drew 7 of ?
+David drew 3 of ?
+Amit won
+------------------------- Round number 21 ------------------------
+Amit drew Jack of ?
+David drew King of ?
+David won
+------------------------- Round number 22 ------------------------
+Amit drew King of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 23 ------------------------
+Amit drew 5 of ?
+David drew Queen of ?
+David won
+------------------------- Round number 24 ------------------------
+Amit drew 7 of ?
+David drew 4 of ?
+Amit won
+------------------------- Round number 25 ------------------------
+Amit drew 4 of ?
+David drew 7 of ?
+David won
+------------------------- Round number 26 ------------------------
+Amit drew Ace of ?
+David drew 10 of ?
+David won
+------------------------- Round number 27 ------------------------
+Amit drew 9 of ?
+David drew 10 of ?
+David won
+------------------------- Round number 28 ------------------------
+Amit drew King of ?
+David drew Queen of ?
+Amit won
+------------------------- Round number 29 ------------------------
+Amit drew 10 of ?
+David drew 9 of ?
+Amit won
+------------------------- Round number 30 ------------------------
+Amit drew King of ?
+David drew 5 of ?
+Amit won
+------------------------- Round number 31 ------------------------
+Amit drew 6 of ?
+David drew 2 of ?
+Amit won
+------------------------- Round number 32 ------------------------
+Amit drew Ace of ?
+David drew 4 of ?
+David won
+------------------------- Round number 33 ------------------------
+Amit drew 9 of ?
+David drew 6 of ?
+Amit won
+------------------------- Round number 34 ------------------------
+Amit drew King of ?
+David drew 8 of ?
+Amit won
+------------------------- Round number 35 ------------------------
+Amit drew 10 of ?
+David drew 6 of ?
+Amit won
+------------------------- Round number 36 ------------------------
+Amit drew 4 of ?
+David drew 3 of ?
+Amit won
+------------------------- Round number 37 ------------------------
+Amit drew Jack of ?
+David drew Jack of ?
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 5 of ?
+David drew Queen of ?
+David won the war
+------------------------- Round number 38 ------------------------
+Amit drew 10 of ?
+David drew 7 of ?
+Amit won
+------------------------- Round number 39 ------------------------
+Amit drew Ace of ?
+David drew 2 of ?
+David won
+------------------------- Round number 40 ------------------------
+Amit drew 4 of ?
+David drew 8 of ?
+David won
+------------------------- Round number 41 ------------------------
+Amit drew 4 of ?
+David drew 6 of ?
+David won
+------------------------- Round number 42 ------------------------
+Amit drew Ace of ?
+David drew Queen of ?
+David won
+------------------------- Round number 43 ------------------------
+Amit drew 8 of ?
+David drew 10 of ?
+David won
+------------------------- Round number 44 ------------------------
+Amit drew 2 of ?
+David drew 5 of ?
+David won
+------------------------- Round number 45 ------------------------
+Amit drew 2 of ?
+David drew 4 of ?
+David won
+------------------------- Round number 46 ------------------------
+Amit drew 4 of ?
+David drew 8 of ?
+David won
+------------------------- Round number 47 ------------------------
+Amit drew 10 of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 48 ------------------------
+Amit drew Ace of ?
+David drew 7 of ?
+David won
+------------------------- Round number 49 ------------------------
+Amit drew 8 of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 50 ------------------------
+Amit drew 5 of ?
+David drew 3 of ?
+Amit won
+------------------------- Round number 51 ------------------------
+Amit drew 6 of ?
+David drew 2 of ?
+Amit won
+------------------------- Round number 52 ------------------------
+Amit drew Queen of ?
+David drew King of ?
+David won
+------------------------- Round number 53 ------------------------
+Amit drew King of ?
+David drew Ace of ?
+Amit won
+------------------------- Round number 54 ------------------------
+Amit drew 2 of ?
+David drew 9 of ?
+David won
+------------------------- Round number 55 ------------------------
+Amit drew Ace of ?
+David drew 6 of ?
+David won
+------------------------- Round number 56 ------------------------
+Amit drew 4 of ?
+David drew 6 of ?
+David won
+------------------------- Round number 57 ------------------------
+Amit drew Queen of ?
+David drew 7 of ?
+Amit won
+------------------------- Round number 58 ------------------------
+Amit drew 4 of ?
+David drew 9 of ?
+David won
+------------------------- Round number 59 ------------------------
+Amit drew 7 of ?
+David drew 5 of ?
+Amit won
+------------------------- Round number 60 ------------------------
+Amit drew 8 of ?
+David drew 6 of ?
+Amit won
+------------------------- Round number 61 ------------------------
+Amit drew 4 of ?
+David drew King of ?
+David won
+------------------------- Round number 62 ------------------------
+Amit drew 4 of ?
+David drew King of ?
+David won
+------------------------- Round number 63 ------------------------
+Amit drew 9 of ?
+David drew 10 of ?
+David won
+------------------------- Round number 64 ------------------------
+Amit drew 9 of ?
+David drew 2 of ?
+Amit won
+------------------------- Round number 65 ------------------------
+Amit drew 6 of ?
+David drew 6 of ?
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 6 of ?
+David drew 2 of ?
+Amit won the war
+------------------------- Round number 66 ------------------------
+Amit drew King of ?
+David drew 10 of ?
+Amit won
+------------------------- Round number 67 ------------------------
+Amit drew 2 of ?
+David drew 5 of ?
+David won
+------------------------- Round number 68 ------------------------
+Amit drew 4 of ?
+David drew 10 of ?
+David won
+------------------------- Round number 69 ------------------------
+Amit drew King of ?
+David drew Queen of ?
+Amit won
+------------------------- Round number 70 ------------------------
+Amit drew 9 of ?
+David drew Queen of ?
+David won
+------------------------- Round number 71 ------------------------
+Amit drew Ace of ?
+David drew 10 of ?
+David won
+------------------------- Round number 72 ------------------------
+Amit drew 2 of ?
+David drew 3 of ?
+David won
+------------------------- Round number 73 ------------------------
+Amit drew 6 of ?
+David drew 4 of ?
+Amit won
+------------------------- Round number 74 ------------------------
+Amit drew 10 of ?
+David drew 5 of ?
+Amit won
+------------------------- Round number 75 ------------------------
+Amit drew 4 of ?
+David drew 7 of ?
+David won
+------------------------- Round number 76 ------------------------
+Amit drew 4 of ?
+David drew 8 of ?
+David won
+------------------------- Round number 77 ------------------------
+Amit drew 10 of ?
+David drew 8 of ?
+Amit won
+------------------------- Round number 78 ------------------------
+Amit drew 3 of ?
+David drew Queen of ?
+David won
+------------------------- Round number 79 ------------------------
+Amit drew Queen of ?
+David drew King of ?
+David won
+------------------------- Round number 80 ------------------------
+Amit drew 5 of ?
+David drew 5 of ?
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew 2 of ?
+David drew 7 of ?
+David won the war
+------------------------- Round number 81 ------------------------
+Amit drew 4 of ?
+David drew 2 of ?
+Amit won
+------------------------- Round number 82 ------------------------
+Amit drew 9 of ?
+David drew 5 of ?
+Amit won
+------------------------- Round number 83 ------------------------
+Amit drew 7 of ?
+David drew 4 of ?
+Amit won
+------------------------- Round number 84 ------------------------
+Amit drew 10 of ?
+David drew King of ?
+David won
+------------------------- Round number 85 ------------------------
+Amit drew 10 of ?
+David drew 10 of ?
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew Queen of ?
+David drew King of ?
+David won the war
+------------------------- Round number 86 ------------------------
+Amit drew 8 of ?
+David drew 8 of ?
+Starting a war...
+Amit drew a war card
+David drew a war card
+Amit drew a war card
+David drew a war card
+Amit drew Queen of ?
+David drew King of ?
+David won the war
++++++++++++++++++++++++++++++++++++++++
+David won the game!
+
+
+Initializing the game...
+------------------------- Round number 1 ------------------------
+Amir drew 4 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 2 ------------------------
+Amir drew 2 of ?
+Yuval drew 3 of ?
+Yuval won
+------------------------- Round number 3 ------------------------
+Amir drew King of ?
+Yuval drew Queen of ?
+Amir won
+------------------------- Round number 4 ------------------------
+Amir drew Ace of ?
+Yuval drew 4 of ?
+Yuval won
+------------------------- Round number 5 ------------------------
+Amir drew 10 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 6 ------------------------
+Amir drew 4 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 7 ------------------------
+Amir drew Queen of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 8 ------------------------
+Amir drew King of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 9 ------------------------
+Amir drew 8 of ?
+Yuval drew 8 of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Jack of ?
+Yuval drew 10 of ?
+Amir won the war
+------------------------- Round number 10 ------------------------
+Amir drew 6 of ?
+Yuval drew 6 of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 6 of ?
+Yuval drew 5 of ?
+Amir won the war
+------------------------- Round number 11 ------------------------
+Amir drew Queen of ?
+Yuval drew 8 of ?
+Amir won
+------------------------- Round number 12 ------------------------
+Amir drew 10 of ?
+Yuval drew 9 of ?
+Amir won
+------------------------- Round number 13 ------------------------
+Amir drew 4 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 14 ------------------------
+Amir drew Ace of ?
+Yuval drew 3 of ?
+Yuval won
+------------------------- Round number 15 ------------------------
+Amir drew 10 of ?
+Yuval drew 9 of ?
+Amir won
+------------------------- Round number 16 ------------------------
+Amir drew 5 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 17 ------------------------
+Amir drew 7 of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 18 ------------------------
+Amir drew 9 of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 19 ------------------------
+Amir drew King of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 20 ------------------------
+Amir drew 2 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 21 ------------------------
+Amir drew 7 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 22 ------------------------
+Amir drew 5 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 23 ------------------------
+Amir drew Queen of ?
+Yuval drew King of ?
+Yuval won
+------------------------- Round number 24 ------------------------
+Amir drew 4 of ?
+Yuval drew King of ?
+Yuval won
+------------------------- Round number 25 ------------------------
+Amir drew 2 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 26 ------------------------
+Amir drew Jack of ?
+Yuval drew 10 of ?
+Amir won
+------------------------- Round number 27 ------------------------
+Amir drew King of ?
+Yuval drew Queen of ?
+Amir won
+------------------------- Round number 28 ------------------------
+Amir drew 10 of ?
+Yuval drew 9 of ?
+Amir won
+------------------------- Round number 29 ------------------------
+Amir drew 4 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 30 ------------------------
+Amir drew 7 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 31 ------------------------
+Amir drew Ace of ?
+Yuval drew 5 of ?
+Yuval won
+------------------------- Round number 32 ------------------------
+Amir drew Ace of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 33 ------------------------
+Amir drew Jack of ?
+Yuval drew 8 of ?
+Amir won
+------------------------- Round number 34 ------------------------
+Amir drew Jack of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 35 ------------------------
+Amir drew 8 of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 36 ------------------------
+Amir drew Jack of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 37 ------------------------
+Amir drew 3 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 38 ------------------------
+Amir drew 6 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 39 ------------------------
+Amir drew 2 of ?
+Yuval drew King of ?
+Yuval won
+------------------------- Round number 40 ------------------------
+Amir drew 3 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 41 ------------------------
+Amir drew 5 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 42 ------------------------
+Amir drew 4 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 43 ------------------------
+Amir drew 7 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 44 ------------------------
+Amir drew 4 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 45 ------------------------
+Amir drew 6 of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 46 ------------------------
+Amir drew Queen of ?
+Yuval drew 8 of ?
+Amir won
+------------------------- Round number 47 ------------------------
+Amir drew 2 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 48 ------------------------
+Amir drew 7 of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 49 ------------------------
+Amir drew 9 of ?
+Yuval drew 8 of ?
+Amir won
+------------------------- Round number 50 ------------------------
+Amir drew King of ?
+Yuval drew 10 of ?
+Amir won
+------------------------- Round number 51 ------------------------
+Amir drew 4 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 52 ------------------------
+Amir drew 5 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 53 ------------------------
+Amir drew 3 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 54 ------------------------
+Amir drew 10 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 55 ------------------------
+Amir drew Queen of ?
+Yuval drew Queen of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Queen of ?
+Yuval drew 7 of ?
+Amir won the war
+------------------------- Round number 56 ------------------------
+Amir drew King of ?
+Yuval drew King of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Ace of ?
+Yuval drew 2 of ?
+Yuval won the war
+------------------------- Round number 57 ------------------------
+Amir drew 9 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 58 ------------------------
+Amir drew Ace of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 59 ------------------------
+Amir drew 2 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 60 ------------------------
+Amir drew Jack of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 61 ------------------------
+Amir drew 5 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 62 ------------------------
+Amir drew 10 of ?
+Yuval drew 8 of ?
+Amir won
+------------------------- Round number 63 ------------------------
+Amir drew 10 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 64 ------------------------
+Amir drew 7 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 65 ------------------------
+Amir drew Jack of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 66 ------------------------
+Amir drew 7 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 67 ------------------------
+Amir drew 3 of ?
+Yuval drew 8 of ?
+Yuval won
+------------------------- Round number 68 ------------------------
+Amir drew 5 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 69 ------------------------
+Amir drew 9 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 70 ------------------------
+Amir drew Ace of ?
+Yuval drew 2 of ?
+Yuval won
+------------------------- Round number 71 ------------------------
+Amir drew Queen of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 72 ------------------------
+Amir drew 9 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 73 ------------------------
+Amir drew Ace of ?
+Yuval drew King of ?
+Yuval won
+------------------------- Round number 74 ------------------------
+Amir drew 9 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 75 ------------------------
+Amir drew 9 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 76 ------------------------
+Amir drew 2 of ?
+Yuval drew 6 of ?
+Yuval won
+------------------------- Round number 77 ------------------------
+Amir drew 7 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 78 ------------------------
+Amir drew 8 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 79 ------------------------
+Amir drew 2 of ?
+Yuval drew 5 of ?
+Yuval won
+------------------------- Round number 80 ------------------------
+Amir drew 10 of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 81 ------------------------
+Amir drew 3 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 82 ------------------------
+Amir drew 5 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 83 ------------------------
+Amir drew 10 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 84 ------------------------
+Amir drew 5 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 85 ------------------------
+Amir drew 2 of ?
+Yuval drew 5 of ?
+Yuval won
+------------------------- Round number 86 ------------------------
+Amir drew 2 of ?
+Yuval drew 5 of ?
+Yuval won
+------------------------- Round number 87 ------------------------
+Amir drew Ace of ?
+Yuval drew 4 of ?
+Yuval won
+------------------------- Round number 88 ------------------------
+Amir drew 6 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 89 ------------------------
+Amir drew 7 of ?
+Yuval drew 8 of ?
+Yuval won
+------------------------- Round number 90 ------------------------
+Amir drew Queen of ?
+Yuval drew Jack of ?
+Amir won
+------------------------- Round number 91 ------------------------
+Amir drew 9 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 92 ------------------------
+Amir drew 8 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 93 ------------------------
+Amir drew 5 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 94 ------------------------
+Amir drew King of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 95 ------------------------
+Amir drew 2 of ?
+Yuval drew 2 of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 8 of ?
+Yuval drew Ace of ?
+Amir won the war
+------------------------- Round number 96 ------------------------
+Amir drew 9 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 97 ------------------------
+Amir drew Queen of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 98 ------------------------
+Amir drew 5 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 99 ------------------------
+Amir drew Jack of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 100 ------------------------
+Amir drew 6 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 101 ------------------------
+Amir drew Ace of ?
+Yuval drew 4 of ?
+Yuval won
+------------------------- Round number 102 ------------------------
+Amir drew 7 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 103 ------------------------
+Amir drew 5 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 104 ------------------------
+Amir drew 2 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 105 ------------------------
+Amir drew 7 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 106 ------------------------
+Amir drew 10 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 107 ------------------------
+Amir drew 10 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 108 ------------------------
+Amir drew 5 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 109 ------------------------
+Amir drew 8 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 110 ------------------------
+Amir drew 5 of ?
+Yuval drew 3 of ?
+Amir won
+------------------------- Round number 111 ------------------------
+Amir drew 9 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 112 ------------------------
+Amir drew 4 of ?
+Yuval drew King of ?
+Yuval won
+------------------------- Round number 113 ------------------------
+Amir drew Jack of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 114 ------------------------
+Amir drew 7 of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 115 ------------------------
+Amir drew Queen of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 116 ------------------------
+Amir drew Ace of ?
+Yuval drew 4 of ?
+Yuval won
+------------------------- Round number 117 ------------------------
+Amir drew 9 of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 118 ------------------------
+Amir drew 10 of ?
+Yuval drew 3 of ?
+Amir won
+------------------------- Round number 119 ------------------------
+Amir drew Jack of ?
+Yuval drew 7 of ?
+Amir won
+------------------------- Round number 120 ------------------------
+Amir drew 9 of ?
+Yuval drew 4 of ?
+Amir won
+------------------------- Round number 121 ------------------------
+Amir drew 6 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 122 ------------------------
+Amir drew 10 of ?
+Yuval drew 2 of ?
+Amir won
+------------------------- Round number 123 ------------------------
+Amir drew 2 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 124 ------------------------
+Amir drew 10 of ?
+Yuval drew 9 of ?
+Amir won
+------------------------- Round number 125 ------------------------
+Amir drew 5 of ?
+Yuval drew 5 of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 8 of ?
+Yuval drew 10 of ?
+Yuval won the war
+------------------------- Round number 126 ------------------------
+Amir drew 5 of ?
+Yuval drew Queen of ?
+Yuval won
+------------------------- Round number 127 ------------------------
+Amir drew 8 of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 128 ------------------------
+Amir drew Ace of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 129 ------------------------
+Amir drew Jack of ?
+Yuval drew 3 of ?
+Amir won
+------------------------- Round number 130 ------------------------
+Amir drew 7 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 131 ------------------------
+Amir drew 4 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 132 ------------------------
+Amir drew 6 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 133 ------------------------
+Amir drew Jack of ?
+Yuval drew Ace of ?
+Amir won
+------------------------- Round number 134 ------------------------
+Amir drew 5 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 135 ------------------------
+Amir drew 2 of ?
+Yuval drew 2 of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew Queen of ?
+Yuval drew 10 of ?
+Amir won the war
+------------------------- Round number 136 ------------------------
+Amir drew 4 of ?
+Yuval drew 8 of ?
+Yuval won
+------------------------- Round number 137 ------------------------
+Amir drew King of ?
+Yuval drew 8 of ?
+Amir won
+------------------------- Round number 138 ------------------------
+Amir drew 9 of ?
+Yuval drew 5 of ?
+Amir won
+------------------------- Round number 139 ------------------------
+Amir drew 4 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 140 ------------------------
+Amir drew 7 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 141 ------------------------
+Amir drew 5 of ?
+Yuval drew 7 of ?
+Yuval won
+------------------------- Round number 142 ------------------------
+Amir drew 10 of ?
+Yuval drew 3 of ?
+Amir won
+------------------------- Round number 143 ------------------------
+Amir drew 6 of ?
+Yuval drew Jack of ?
+Yuval won
+------------------------- Round number 144 ------------------------
+Amir drew 10 of ?
+Yuval drew 10 of ?
+Starting a war...
+Amir drew a war card
+Yuval drew a war card
+Amir drew a war card
+Yuval drew a war card
+Amir drew 4 of ?
+Yuval drew 3 of ?
+Amir won the war
+------------------------- Round number 145 ------------------------
+Amir drew 9 of ?
+Yuval drew 10 of ?
+Yuval won
+------------------------- Round number 146 ------------------------
+Amir drew Ace of ?
+Yuval drew 5 of ?
+Yuval won
+------------------------- Round number 147 ------------------------
+Amir drew 4 of ?
+Yuval drew 9 of ?
+Yuval won
+------------------------- Round number 148 ------------------------
+Amir drew 7 of ?
+Yuval drew King of ?
+Yuval won
++++++++++++++++++++++++++++++++++++++++
+Amir won the game!
+
+
+Initializing the game...
+------------------------- Round number 1 ------------------------
+Or drew 4 of ?
+Shahar drew Ace of ?
+Or won
+------------------------- Round number 2 ------------------------
+Or drew Jack of ?
+Shahar drew 2 of ?
+Or won
+------------------------- Round number 3 ------------------------
+Or drew King of ?
+Shahar drew 8 of ?
+Or won
+------------------------- Round number 4 ------------------------
+Or drew King of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 5 ------------------------
+Or drew Ace of ?
+Shahar drew 9 of ?
+Shahar won
+------------------------- Round number 6 ------------------------
+Or drew Jack of ?
+Shahar drew 8 of ?
+Or won
+------------------------- Round number 7 ------------------------
+Or drew 5 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 8 ------------------------
+Or drew 2 of ?
+Shahar drew Queen of ?
+Shahar won
+------------------------- Round number 9 ------------------------
+Or drew Queen of ?
+Shahar drew King of ?
+Shahar won
+------------------------- Round number 10 ------------------------
+Or drew 6 of ?
+Shahar drew 7 of ?
+Shahar won
+------------------------- Round number 11 ------------------------
+Or drew 9 of ?
+Shahar drew 8 of ?
+Or won
+------------------------- Round number 12 ------------------------
+Or drew King of ?
+Shahar drew 10 of ?
+Or won
+------------------------- Round number 13 ------------------------
+Or drew 10 of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 14 ------------------------
+Or drew Ace of ?
+Shahar drew 2 of ?
+Shahar won
+------------------------- Round number 15 ------------------------
+Or drew 7 of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 16 ------------------------
+Or drew Queen of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 17 ------------------------
+Or drew 10 of ?
+Shahar drew 7 of ?
+Or won
+------------------------- Round number 18 ------------------------
+Or drew 6 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 19 ------------------------
+Or drew 7 of ?
+Shahar drew 9 of ?
+Shahar won
+------------------------- Round number 20 ------------------------
+Or drew 2 of ?
+Shahar drew 6 of ?
+Shahar won
+------------------------- Round number 21 ------------------------
+Or drew 4 of ?
+Shahar drew 6 of ?
+Shahar won
+------------------------- Round number 22 ------------------------
+Or drew Queen of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 23 ------------------------
+Or drew 8 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 24 ------------------------
+Or drew Jack of ?
+Shahar drew 10 of ?
+Or won
+------------------------- Round number 25 ------------------------
+Or drew Ace of ?
+Shahar drew 4 of ?
+Shahar won
+------------------------- Round number 26 ------------------------
+Or drew Jack of ?
+Shahar drew 9 of ?
+Or won
+------------------------- Round number 27 ------------------------
+Or drew 9 of ?
+Shahar drew Jack of ?
+Shahar won
+------------------------- Round number 28 ------------------------
+Or drew 2 of ?
+Shahar drew 9 of ?
+Shahar won
+------------------------- Round number 29 ------------------------
+Or drew 2 of ?
+Shahar drew 5 of ?
+Shahar won
+------------------------- Round number 30 ------------------------
+Or drew 4 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 31 ------------------------
+Or drew 6 of ?
+Shahar drew Queen of ?
+Shahar won
+------------------------- Round number 32 ------------------------
+Or drew Ace of ?
+Shahar drew 7 of ?
+Shahar won
+------------------------- Round number 33 ------------------------
+Or drew 4 of ?
+Shahar drew 5 of ?
+Shahar won
+------------------------- Round number 34 ------------------------
+Or drew Ace of ?
+Shahar drew 7 of ?
+Shahar won
+------------------------- Round number 35 ------------------------
+Or drew King of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 36 ------------------------
+Or drew Ace of ?
+Shahar drew Ace of ?
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 6 of ?
+Shahar drew 8 of ?
+Shahar won the war
+------------------------- Round number 37 ------------------------
+Or drew 7 of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 38 ------------------------
+Or drew 9 of ?
+Shahar drew 10 of ?
+Shahar won
+------------------------- Round number 39 ------------------------
+Or drew 7 of ?
+Shahar drew 10 of ?
+Shahar won
+------------------------- Round number 40 ------------------------
+Or drew 2 of ?
+Shahar drew 6 of ?
+Shahar won
+------------------------- Round number 41 ------------------------
+Or drew Queen of ?
+Shahar drew Queen of ?
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 2 of ?
+Shahar drew 4 of ?
+Shahar won the war
+------------------------- Round number 42 ------------------------
+Or drew 6 of ?
+Shahar drew 10 of ?
+Shahar won
+------------------------- Round number 43 ------------------------
+Or drew 9 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 44 ------------------------
+Or drew 5 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 45 ------------------------
+Or drew 5 of ?
+Shahar drew 5 of ?
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 10 of ?
+Shahar drew 8 of ?
+Or won the war
+------------------------- Round number 46 ------------------------
+Or drew 7 of ?
+Shahar drew 2 of ?
+Or won
+------------------------- Round number 47 ------------------------
+Or drew 9 of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 48 ------------------------
+Or drew 7 of ?
+Shahar drew King of ?
+Shahar won
+------------------------- Round number 49 ------------------------
+Or drew Jack of ?
+Shahar drew Jack of ?
+Starting a war...
+Or drew a war card
+Shahar drew a war card
+Or drew a war card
+Shahar drew a war card
+Or drew 2 of ?
+Shahar drew 7 of ?
+Shahar won the war
+------------------------- Round number 50 ------------------------
+Or drew Queen of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 51 ------------------------
+Or drew 7 of ?
+Shahar drew 8 of ?
+Shahar won
+------------------------- Round number 52 ------------------------
+Or drew 6 of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 53 ------------------------
+Or drew 10 of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 54 ------------------------
+Or drew 8 of ?
+Shahar drew 6 of ?
+Or won
+------------------------- Round number 55 ------------------------
+Or drew 7 of ?
+Shahar drew 2 of ?
+Or won
+------------------------- Round number 56 ------------------------
+Or drew 8 of ?
+Shahar drew 9 of ?
+Shahar won
+------------------------- Round number 57 ------------------------
+Or drew 6 of ?
+Shahar drew 8 of ?
+Shahar won
+------------------------- Round number 58 ------------------------
+Or drew 10 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 59 ------------------------
+Or drew 10 of ?
+Shahar drew Queen of ?
+Shahar won
+------------------------- Round number 60 ------------------------
+Or drew 7 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 61 ------------------------
+Or drew King of ?
+Shahar drew 2 of ?
+Or won
+------------------------- Round number 62 ------------------------
+Or drew 10 of ?
+Shahar drew King of ?
+Shahar won
+------------------------- Round number 63 ------------------------
+Or drew 8 of ?
+Shahar drew King of ?
+Shahar won
+------------------------- Round number 64 ------------------------
+Or drew Queen of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 65 ------------------------
+Or drew King of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 66 ------------------------
+Or drew 8 of ?
+Shahar drew 9 of ?
+Shahar won
+------------------------- Round number 67 ------------------------
+Or drew 10 of ?
+Shahar drew 9 of ?
+Or won
+------------------------- Round number 68 ------------------------
+Or drew 10 of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 69 ------------------------
+Or drew 6 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 70 ------------------------
+Or drew 9 of ?
+Shahar drew 7 of ?
+Or won
+------------------------- Round number 71 ------------------------
+Or drew King of ?
+Shahar drew 6 of ?
+Or won
+------------------------- Round number 72 ------------------------
+Or drew 8 of ?
+Shahar drew King of ?
+Shahar won
+------------------------- Round number 73 ------------------------
+Or drew 8 of ?
+Shahar drew 9 of ?
+Shahar won
+------------------------- Round number 74 ------------------------
+Or drew 9 of ?
+Shahar drew 10 of ?
+Shahar won
+------------------------- Round number 75 ------------------------
+Or drew 9 of ?
+Shahar drew 5 of ?
+Or won
+------------------------- Round number 76 ------------------------
+Or drew 8 of ?
+Shahar drew 3 of ?
+Or won
+------------------------- Round number 77 ------------------------
+Or drew King of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 78 ------------------------
+Or drew 8 of ?
+Shahar drew 6 of ?
+Or won
+------------------------- Round number 79 ------------------------
+Or drew 10 of ?
+Shahar drew 4 of ?
+Or won
+------------------------- Round number 80 ------------------------
+Or drew 9 of ?
+Shahar drew 5 of ?
+Or won
++++++++++++++++++++++++++++++++++++++++
+Shahar won the game!
+
+

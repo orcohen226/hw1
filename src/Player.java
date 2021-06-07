@@ -13,6 +13,7 @@ public class Player {
     }
 
     public String getName() {
+
         return name;
     }
 
@@ -25,12 +26,11 @@ public class Player {
     }
 
     public Card drawCard() {
-        if(mainDeck.getDeckSize() == 0){
-            sideDeck.shuffle();
-            mainDeck = sideDeck;
-            sideDeck = new Deck(false);
+        if(this.mainDeck.getDeckSize() < 1){
+           this.sideDeck.shuffle();
+           mainDeck = sideDeck;
+           sideDeck = new Deck(false);
         }
-
         return mainDeck.removeTopCard();
     }
 
@@ -42,6 +42,7 @@ public class Player {
     }
 
     public String toString(){
+
         return name;
     }
 }

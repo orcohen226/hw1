@@ -13,7 +13,7 @@ public class Deck {
 
             for (int shapeI = 0; shapeI <= 3; shapeI++) {
                 Shape shape = Shape.values()[shapeI];
-                for (int i = 0; i <= 13; i++) {
+                for (int i = 1; i <= 13; i++) {
                     Card card = new Card(i, shape);
                     deck.add(card);
                 }
@@ -54,9 +54,9 @@ public class Deck {
         //and we change the value of the two indexes that
         //present those indexes
         for (int i = 0; i < 50; i++) {
-            int randomInteger1 = (int) (deck.size() * Math.random());
-            int randomInteger2 = (int) (deck.size() * Math.random());
-            Collections.swap(deck, randomInteger1, randomInteger2);
+            int randomInteger1 = Main.rnd.nextInt(this.deck.size());
+            int randomInteger2 = Main.rnd.nextInt(this.deck.size());
+            Collections.swap(this.deck, randomInteger1, randomInteger2);
         }
     }
 }
