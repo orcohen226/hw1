@@ -26,8 +26,8 @@ public class Player {
     }
 
     public Card drawCard() {
-        if(this.mainDeck.getDeckSize() < 1){
-           this.sideDeck.shuffle();
+        if(mainDeck.getDeckSize() < 1){
+           sideDeck.shuffle();
            mainDeck = sideDeck;
            sideDeck = new Deck(false);
         }

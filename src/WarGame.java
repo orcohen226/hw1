@@ -50,7 +50,7 @@ public class WarGame {
         int n = 0;
         while (!player1.outOfCard() && !player2.outOfCard()) {
             ++n;
-            System.out.println("------------------------- Round number " + n + " ------------------------");
+            System.out.println("------------------------- Round number " + n + " -------------------------");
             round();
         }
         if (player1.outOfCard()) {
@@ -69,17 +69,16 @@ public class WarGame {
         if (compareCards == 1) {
             // player1 card > player2 card
             // check which first we take first
-            player1.addToSideDeck(secondTopCard); // top card of one of the players
-            player1.addToSideDeck(firstTopCard); // top card of the other player
+            playerWhoPlayFirst.addToSideDeck(secondTopCard); // top card of one of the players
+            playerWhoPlayFirst.addToSideDeck(firstTopCard); // top card of the other player
             System.out.println(playerWhoPlayFirst + " won");
         } else if (compareCards == -1) {
             // player2 card > player1 card
-            player2.addToSideDeck(secondTopCard); // top card of one of the players
-            player2.addToSideDeck(firstTopCard); // top card of the other player
+            playerWhoPlaySecond.addToSideDeck(secondTopCard); // top card of one of the players
+            playerWhoPlaySecond.addToSideDeck(firstTopCard); // top card of the other player
             System.out.println(playerWhoPlaySecond + " won");
         } else {
             // starting war
-            System.out.println("Starting a war...");
 //            boolean oneIsOut = startingWar(firstTopCard, secondTopCard);
             startingWar(firstTopCard, secondTopCard);
         }
@@ -91,7 +90,7 @@ public class WarGame {
         warDeck.addCard(firstTopCard); // top card of one of the players
         warDeck.addCard(secondTopCard); // top card of the other player
         while (compareCardsInWar == 0) {
-
+            System.out.println("Starting a war...");
             for (int i = 0; i < 2; i++) {
                 if (playerWhoPlayFirst.outOfCard() || (playerWhoPlaySecond.outOfCard())) {
                     break;
@@ -100,6 +99,8 @@ public class WarGame {
                 System.out.println(playerWhoPlayFirst + " drew a war card");
                 warDeck.addCard(playerWhoPlaySecond.drawCard());
                 System.out.println(playerWhoPlaySecond + " drew a war card");
+            }if (playerWhoPlayFirst.outOfCard() || (playerWhoPlaySecond.outOfCard())) {
+                break;
             }
             Card topCardOfFirstPlayerInWar = playerWhoPlayFirst.drawCard();
             System.out.println(playerWhoPlayFirst + " drew " + topCardOfFirstPlayerInWar);
@@ -108,16 +109,17 @@ public class WarGame {
             warDeck.addCard(topCardOfFirstPlayerInWar);
             warDeck.addCard(topCardOfSecondPlayerInWar); // check if player 1 or player 2 is first
             compareCardsInWar = topCardOfFirstPlayerInWar.compare(topCardOfSecondPlayerInWar);
+            int WAR_DECK_SIZE = warDeck.getDeckSize();
 
             if (compareCardsInWar == 1) {
                 // get all in the sideDeck player who plays first
-                for (int i = 0; i < warDeck.getDeckSize(); i++) {
+                for (int i = 0; i < WAR_DECK_SIZE; i++) {
                     playerWhoPlayFirst.addToSideDeck(warDeck.removeTopCard());
                 }
                 System.out.println(playerWhoPlayFirst + " won the war");
             } else if (compareCardsInWar == -1) {
                 // get all in the sideDeck player who plays second
-                for (int i = 0; i < warDeck.getDeckSize(); i++) {
+                for (int i = 0; i < WAR_DECK_SIZE; i++) {
                     playerWhoPlaySecond.addToSideDeck(warDeck.removeTopCard());
                 }
                 System.out.println(playerWhoPlaySecond + " won the war");
